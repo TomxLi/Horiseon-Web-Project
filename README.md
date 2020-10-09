@@ -17,10 +17,9 @@ It is one of the most common tasks for front-end and junior developers in real c
 3. Added description into de given code.
 ```
 
-## The following image shows detailed chanses in given code:
+## What is changed from original code:
 
 ## HTML
-
 
 ![Screenshot](./assets/images/Capture01.PNG)
 
@@ -28,11 +27,10 @@ It is one of the most common tasks for front-end and junior developers in real c
 
 ![Screenshot](./assets/images/Capture03.PNG)
 
-![Screenshot](./assets/images/Capture04.PNG)
-
 
 ## CSS
 
+![Screenshot](./assets/images/Capture04.PNG)
 
 ![Screenshot](./assets/images/Capture05.PNG)
 
