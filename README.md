@@ -17,7 +17,7 @@ It is one of the most common tasks for front-end and junior developers in real c
 3. Added description into de given code.
 ```
 
-## What is changed from original code:
+## The following images shows detailed info about what has been changed from original code:
 
 ## HTML
 
