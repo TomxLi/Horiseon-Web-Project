@@ -12,9 +12,11 @@ It is one of the most common tasks for front-end and junior developers in real c
 ## How I did it
 
 ```
-1. Changed given HTML and CSS code to meet semantic structure standard. 
-2. Simplified code as much as I can to make it cleaner.
-3. Added description into de given code.
+1. Carefully read through the code line by line.
+2. Change inappropriate code to meet semantic structure standard. 
+2. Combine repeated code, delete redundant code to make code cleaner.
+3. Added description into the CSS file.
+4. Added additional functions to make website more efficient.
 ```
 
 ## The following images shows detailed info about what has been changed from original code:
