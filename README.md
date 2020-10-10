@@ -1,25 +1,17 @@
-# UW-HW01-CR-XL
-"UW coding bootcamp 1st homework assignment - Code Refactor" from Xuefan Li
-
 ## Task
 
-Modify and refactor existing code to improve accessibility, correct functionality, and meet semantic structure standard. 
+Modify and refactor original code to improve web accessibility, correct functionality, and meet semantic structure standard. 
 
-## Motivation
-
-It is one of the most common tasks for front-end and junior developers in real case scenario since web accessibility is an increasingly important according to instruction. I believe I will learn a lot of fundamentals of HTML and CSS and have a chance to apply what I have learned from the class into this project.
-
-## How I did it
+## Revision summary
 
 ```
-1. Carefully read through the code line by line.
-2. Change inappropriate code to meet semantic structure standard. 
-2. Combine repeated code, delete redundant code to make code cleaner.
-3. Added description into the CSS file.
+1. Modified inappropriate code to meet semantic structure standard. 
+2. Refactored repeated code, deleted redundant line to make code cleaner.
+3. Added description into the CSS file for future use.
 4. Added additional functions to make website more efficient.
 ```
 
-## The following images shows detailed info about what has been changed from original code:
+## The following images show detailed info regarding updates:
 
 ## HTML
 
